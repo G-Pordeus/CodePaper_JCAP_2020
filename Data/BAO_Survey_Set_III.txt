@@ -1,0 +1,4 @@
+Survey_Set_II z Dz sigma_D rs_sfid
+WiggleZ 0.44 1716 83 148.6
+WiggleZ 0.60 2221 101 148.6
+WiggleZ 0.73 2516 86 148.6
